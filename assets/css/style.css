@@ -1,19 +1,29 @@
-/* .jumbotron {
-    width: 960px;
-    margin: 0 auto;
+body {
+    background-image: url(https://i.ytimg.com/vi/f9OSSl3ndRo/maxresdefault.jpg);
 }
 
-.display-2 {
+.body {
+    font-family: arial;
+}
+
+.jumbotron {
+    width: 960px;
+    margin: 100px auto;
+    background-color: white;
+}
+
+.display-4 {
     font-family: 'Bungee Shade', cursive;
     text-align: center;
-    background-color: white;
+    background-color: #4C4CFF;
+    color: white;
     border-radius: 5px;
 }
 
 .btn-primary {
     font-family: 'Bungee Shade', cursive;
     font-size: 36px;
-} */
+}
 
 .h1 {
     font-size: 36px;
